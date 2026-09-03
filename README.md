@@ -1,4 +1,4 @@
-# github.website
+# yadav.apps
 
 Standalone static site for public app marketing, privacy, and support pages.
 
